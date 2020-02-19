@@ -1,0 +1,145 @@
+[
+  {
+    "username": "zuck04",
+    "email": "zuck@facebook.com",
+    "name": "Mark Zuckerberg",
+    "type": "USER",
+    "deleted": true
+  },
+  {
+    "username": "torvalds",
+    "email": "torvalds@linuxmail.com",
+    "name": "Linus Torvalds",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "mozilla",
+    "email": "opensource@mozilla.org",
+    "name": "Mozilla",
+    "type": "ORG",
+    "deleted": false,
+    "members": [
+      "21echoes",
+      "6a68",
+      "Ackar",
+      "linacambridge"
+    ]
+  },
+  {
+    "username": "21echoes",
+    "email": "davidkettler@gmail.com",
+    "name": "David Kettler",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "6a68",
+    "email": "jaredhirsch@mozilla.org",
+    "name": "Jared Hirsch ",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "Ackar",
+    "email": "ackar@gmail.com",
+    "name": "Sylvain Cleymans",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "linacambridge",
+    "email": "linacambridge@mozilla.org",
+    "name": "Lina Cambridge",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "lisa",
+    "email": "lisa@selves.com",
+    "name": "Lisa Lisa",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "mojombo",
+    "email": "tom@mojombo.com",
+    "name": "Tom Preston-Werner",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "github",
+    "email": "opensource@github.com",
+    "name": "GitHub",
+    "type": "ORG",
+    "deleted": false,
+    "members": [
+      "mojombo",
+      "octacat"
+    ]
+  },
+  {
+    "username": "broccolini",
+    "email": "broccolini@github.com",
+    "name": "Diana Mounter",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "octacat",
+    "email": "octacat@github.com",
+    "name": "Octacat",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "maddox",
+    "email": "jon@jonmaddox.com",
+    "name": "Jon Maddox",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "jimjam",
+    "email": "cart@cakemail.com",
+    "name": "Jim Jam",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "drew",
+    "email": "andrew@selves.com",
+    "name": "Andrew Taggart",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "kenny",
+    "email": "kenny@kenthompson.com",
+    "name": "Ken Thompson",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "ritchie",
+    "email": "dennisritchie@linux.org",
+    "name": "Dennis Ritchie",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "ashtle",
+    "email": "ashtle@selves.com",
+    "name": "Ashtle",
+    "type": "USER",
+    "deleted": false
+  },
+  {
+    "username": "janet",
+    "email": "janet@selves.com",
+    "name": "Janet",
+    "type": "USER",
+    "deleted": false
+  }
+]
