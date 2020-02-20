@@ -10,7 +10,7 @@ if table_name in tables:
 	
 	find={
 		'publisher': 'O\'Reilly Media',
-		'title' : 'Learning JavaScript Design Patterns'
+		'title' : 'Git Pocket Guide'
 	}
 	response=dynamodb.Table('Books').get_item(
 	Key=find
